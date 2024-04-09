@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-size: 60px;
+    color: red;
+}
+h2{
+    font-size: 50px;
+    color: blue;
+}
+h3{
+    font-size: 40px;
+    color: green;
+}
+
+
+/* #page-1{
+height: 100%;
+width: 100%;
+background-color: lightblue;
+}
+
+#box{
+height: 40vh;
+width: 40vh;
+background-color: red;
+} */

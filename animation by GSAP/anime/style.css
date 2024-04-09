@@ -1,0 +1,21 @@
+.box{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin: 4px;
+    /* display: inline-block; */
+}
+.red{
+    margin-left: 0;
+    background: red;}
+/* .blue{background: blue;} */
+.green{
+    margin-left: 500;
+    background: green;}
+/* .yellow{background: yellow;} */
+
+#main{
+    display: flex;
+    /* flex-direction:column; */
+    gap: 25px;
+}
